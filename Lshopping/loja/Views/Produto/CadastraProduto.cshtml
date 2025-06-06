@@ -1,0 +1,68 @@
+﻿@model loja.Models.ProdutoViewModel
+
+<h2>Cadastro de Produto</h2>
+
+<form asp-action="CadastraProduto">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Nome" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Descricao" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <textarea asp-for="Descricao" class="form-control"></textarea>
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+        </div>
+
+            <div class="form-group">
+                <label asp-for="ImagemURL" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="ImagemURL" class="form-control" />
+                    <span asp-validation-for="ImagemURL" class="text-danger"></span>
+               </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label asp-for="Preco" class="col-md-2 control-label"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Preco" asp-format="{0:N2}" class="form-control" />
+                        <span asp-validation-for="Preco" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                 <div class="form-group col-md-4">
+                    <label asp-for="Quantidade" class="col-md-2 control-label"></label>
+                     <div class="col-md-10">
+                        <input asp-for="Quantidade" class="form-control" />
+                        <span asp-validation-for="Quantidade" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+            <div class="form-group col-md-4">
+                <label asp-for="CategoriaId" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="CategoriaId" class="form-control" />
+                    <span asp-validation-for="CategoriaId" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group" style="padding-top: 10px">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Cadastrar" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar</a>
+            </div>
+        </div>
+    </div>
+</form>

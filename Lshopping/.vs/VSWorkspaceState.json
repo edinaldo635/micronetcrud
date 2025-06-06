@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiProduto",
+    "\\ApiProduto\\DTOs",
+    "\\ApiProduto\\DTOs\\Mappings",
+    "\\ApiProduto\\Properties",
+    "\\loja",
+    "\\loja\\Models",
+    "\\loja\\Services",
+    "\\loja\\Views",
+    "\\loja\\Views\\Produto"
+  ],
+  "SelectedNode": "\\ApiProduto\\ApiProduto.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,647 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\produto\\atualizaproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\produto\\atualizaproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\produto\\deletaproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\produto\\deletaproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\produto\\cadastraproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\produto\\cadastraproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\home\\produtodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\home\\produtodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\repositorio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\repositorio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\apiproduto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\apiproduto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\migrations\\20250606121438_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\migrations\\20250606121438_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\models\\categoriaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\models\\categoriaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\apiproduto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80CD4A55-39AB-4326-979F-695A7CC539C8}|ApiProduto\\ApiProduto.csproj|solutionrelative:apiproduto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\services\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\services\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|c:\\users\\edinaldo\\onedrive\\documentos\\lshopping\\loja\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA273EC-65D6-43EE-9C6C-A56CC53D4CF3}|loja\\loja.csproj|solutionrelative:loja\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtualizaProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\AtualizaProduto.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Produto\\AtualizaProduto.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\AtualizaProduto.cshtml",
+              "RelativeToolTip": "loja\\Views\\Produto\\AtualizaProduto.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:37:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "loja\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "loja\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:10:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "loja\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "loja\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:24:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletaProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\DeletaProduto.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Produto\\DeletaProduto.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\DeletaProduto.cshtml",
+              "RelativeToolTip": "loja\\Views\\Produto\\DeletaProduto.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T01:09:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "loja\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "loja\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:08:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastraProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\CadastraProduto.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Produto\\CadastraProduto.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\CadastraProduto.cshtml",
+              "RelativeToolTip": "loja\\Views\\Produto\\CadastraProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T22:13:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "loja\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "loja\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:45:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "loja\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:38:55.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Home\\ProdutoDetails.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Home\\ProdutoDetails.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Home\\ProdutoDetails.cshtml",
+              "RelativeToolTip": "loja\\Views\\Home\\ProdutoDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:47:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ApiProduto\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:21:04.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "ApiProduto\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:37:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Models\\Produto.cs",
+              "RelativeToolTip": "ApiProduto\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:44:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "ApiProduto\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:37:48.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Repositorio\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "ApiProduto\\Repositorio\\IProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:01:59.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\DTOs\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "ApiProduto\\DTOs\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:37:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "ApiProduto\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:38:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiProduto.http",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\ApiProduto.http",
+              "RelativeDocumentMoniker": "ApiProduto\\ApiProduto.http",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\ApiProduto.http",
+              "RelativeToolTip": "ApiProduto\\ApiProduto.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-06T13:59:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ApiProduto\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:31:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Models\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "loja\\Models\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Models\\ProdutoViewModel.cs",
+              "RelativeToolTip": "loja\\Models\\ProdutoViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:10:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "ApiProduto\\Context\\MyDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:19:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250606121438_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Migrations\\20250606121438_Inicial.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Migrations\\20250606121438_Inicial.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Migrations\\20250606121438_Inicial.cs",
+              "RelativeToolTip": "ApiProduto\\Migrations\\20250606121438_Inicial.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:04:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ApiProduto\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:29:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "ApiProduto\\DTOs\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:37:14.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Models\\CategoriaViewModel.cs",
+              "RelativeDocumentMoniker": "loja\\Models\\CategoriaViewModel.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Models\\CategoriaViewModel.cs",
+              "RelativeToolTip": "loja\\Models\\CategoriaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:09:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "loja\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T12:24:53.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "loja\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "loja\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:47:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Models\\Categoria.cs",
+              "RelativeToolTip": "ApiProduto\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:44:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiProduto\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:31:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "ApiProduto\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:31:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiProduto\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiProduto\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T00:23:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Program.cs",
+              "RelativeDocumentMoniker": "loja\\Program.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Program.cs",
+              "RelativeToolTip": "loja\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:21:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\Program.cs",
+              "RelativeToolTip": "ApiProduto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T00:38:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "loja\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Properties\\launchSettings.json",
+              "RelativeToolTip": "loja\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T11:36:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\appsettings.json",
+              "RelativeDocumentMoniker": "loja\\appsettings.json",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\appsettings.json",
+              "RelativeToolTip": "loja\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T00:21:02.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProduto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\ApiProduto\\appsettings.json",
+              "RelativeToolTip": "ApiProduto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T00:22:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "loja\\Services\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\IProdutoService.cs",
+              "RelativeToolTip": "loja\\Services\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:46:35.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "loja\\Services\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\Edinaldo\\OneDrive\\Documentos\\Lshopping\\loja\\Services\\ICategoriaService.cs",
+              "RelativeToolTip": "loja\\Services\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:23:56.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
